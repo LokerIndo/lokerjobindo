@@ -1,8 +1,0 @@
-User-agent: Googlebot  
-Disallow:   
-User-agent: googlebot-image  
-User-agent: googlebot-mobile  
-Disallow:   
-User-agent: *  
-Disallow: 
-Sitemap: https://lokerindo.github.io/lokerjobindo/sitemap.xml
